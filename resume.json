@@ -1,0 +1,39 @@
+{
+    "personalData" : {
+        "name" : "Jothiraman S",
+        "age" : 24,
+        "mobileNumber" : "0123456789",
+        "emailId" : "jothixyz@gmail.com"
+    },
+
+    "education" : [
+        {
+            "class" : 10,
+            "schoolName" : "ABCDschool",
+            "yearOfPassing" : 2015,
+            "percentage" : "77%"
+        },
+        {
+            "class" : 12,
+            "schoolName" : "XYZschool",
+            "yearOfPassing" : 2017,
+            "percentage" : "68%"
+        },
+        {
+            "degree" : "B.Sc MATHEMATICS",
+            "collegeName" : "SSSS ARTS AND SCIENCE COLLEGE",
+            "graduatedYear" : 2020,
+            "percentage" : "63%"
+        }
+    ],
+    
+    "skills" : {
+        "programmingLanguage" : [ "Javascript", "Python" ],
+        "framework" : [ "Bootstrap", "Reactjs", "Expressjs" ],
+        "techStack" : [ "MERN STACK" ],
+        "versionControl" : "Git and Github"
+    },
+
+    "languages" : [ "Tamil", "English", "Telugu", "Kannada" ]
+
+}
